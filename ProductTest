@@ -1,0 +1,5 @@
+Product{ID='000001', name='Pipeweed', description='Long Bottom Leaf', cost=600.0}
+Product{ID='000002', name='Lembas', description='Elven Wayfare Bread', cost=200.0}
+Product{ID='000003', name='Wine', description='Woodland Elf Wine', cost=400.0}
+Product{ID='000004', name='Mushrooms', description='Farmer Took’s Finest', cost=125.0}
+Product{ID='000005', name='Mithril', description='Enchanted Dwarven Armor', cost=3000.0}
